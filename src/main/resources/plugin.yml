@@ -5,6 +5,6 @@ api-version: '1.21'
 description: High-performance Paper plugin for faster movement on path blocks
 author: TankObliterator
 permissions:
-  fastpaths.admin:
+  fastpath.admin:
     description: Allows reloading FastPaths configuration
     default: op

@@ -34,9 +34,9 @@ public class FastPathsPlugin extends JavaPlugin {
 
         // 5. Register command natively for Paper plugins (JavaPlugin#registerCommand)
         registerCommand(
-                "fastpaths",
-                "FastPaths plugin management command",
-                List.of("fasterpaths", "fp"),
+                "fastpath",
+                "FastPath plugin management command",
+                List.of(),
                 new FastPathsCommand(this)
         );
 

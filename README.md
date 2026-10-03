@@ -49,10 +49,8 @@ By boosting the player's step height to exactly `1.0` while on path blocks, play
 
 | Command | Description | Permission | Default |
 | :--- | :--- | :--- | :--- |
-| `/fastpaths reload` | Reloads `config.yml` and updates all players dynamically. | `fastpaths.admin` | OP |
-| `/fastpaths info` | Displays current settings and count of players currently on paths. | `fastpaths.admin` | OP |
-
-**Command Aliases:** `/fasterpaths`, `/fp`
+| `/fastpath reload` | Reloads `config.yml` and updates all players dynamically. | `fastpath.admin` | OP |
+| `/fastpath info` | Displays current settings and count of players currently on paths. | `fastpath.admin` | OP |
 
 ---
 
