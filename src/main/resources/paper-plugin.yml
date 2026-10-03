@@ -1,0 +1,10 @@
+name: FastPaths
+version: '${version}'
+main: com.github.fastpaths.FastPathsPlugin
+api-version: '1.21'
+description: High-performance Paper plugin for faster movement on path blocks
+author: TankObliterator
+permissions:
+  fastpaths.admin:
+    description: Allows reloading FastPaths configuration
+    default: op
